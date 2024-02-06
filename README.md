@@ -4,7 +4,7 @@
     
 Backend setup for a social media including a non relational database using MongoDB which can be interacted with using API's tested locally
     
-## Table of Contents (Optional)
+## Table of Contents 
     
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,9 +14,9 @@ Backend setup for a social media including a non relational database using Mongo
     
 You can see the Mongo DB setup in MongoDB Compass and you can interact with the application using a local API scratchpad such as Insomnia or Postman
     
-![MongoDB Compass](image-1.png)
+![MongoDB Compass](assets\MongoDBCompassScreenshot.png)
 
-![Insomnia Routes Example](image-2.png)
+![Insomnia Routes Example](assets\InsomniaScreenshot.png)
         
 ## Questions
 
